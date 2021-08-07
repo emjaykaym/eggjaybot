@@ -1,5 +1,2 @@
 # eggjaybot
-Custom discord bot
-
-Features:
-$hello: bot greets user.
+Custom discord bot named eggjay
